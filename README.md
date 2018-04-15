@@ -6,6 +6,7 @@ This is a simple web project for Git practise
 project for git 
 ##How To Contribute
 
+CHANGES for automatic merge
 
 ##Deployment
 
