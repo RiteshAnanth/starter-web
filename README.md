@@ -8,3 +8,7 @@ project for git
 
 
 ##Deployment
+
+### Copyright
+
+2018 Git.Training.
