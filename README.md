@@ -9,7 +9,7 @@ project for git
 CHANGES for automatic merge
 
 ##Deployment
-this can be deployed at any time, fdfsa
+this can be deployed at any time, more features from Myfeatures branch too
 ### Copyright
 
 2018 Git.Training.
