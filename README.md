@@ -9,7 +9,7 @@ project for git
 CHANGES for automatic merge
 
 ##Deployment
-this can be deployed at any time
+this can be deployed at any time, fdfsa
 ### Copyright
 
 2018 Git.Training.
