@@ -9,7 +9,7 @@ project for git
 CHANGES for automatic merge
 
 ##Deployment
-
+this can be deployed at any time
 ### Copyright
 
 2018 Git.Training.
