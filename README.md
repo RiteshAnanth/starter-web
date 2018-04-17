@@ -5,6 +5,7 @@ This is a simple web project for Git practise
 ##Purpose
 project for git 
 ##How To Contribute
+emergency fix after stash
 
 CHANGES for automatic merge
 
