@@ -11,5 +11,5 @@ CHANGES for automatic merge
 ##Deployment
 this can be deployed at any time, more features from Myfeatures branch too
 ### Copyright
-
+all rights reserved
 2018 Git.Training.
